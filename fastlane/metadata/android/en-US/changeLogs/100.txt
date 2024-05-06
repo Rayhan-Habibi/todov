@@ -1,0 +1,2 @@
+Initial realese
+1. Added basic CRUD functionality using React Redux

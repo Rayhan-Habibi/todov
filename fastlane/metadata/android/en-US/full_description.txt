@@ -1,0 +1,6 @@
+A Todo app that have abilities to: 
+1. Add your schedule into checkboxes
+2. Reminding you about today activities
+
+Some features may not available until the next major update.
+A testing app used for learning React Native
